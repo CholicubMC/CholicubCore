@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LuckPerms-Bukkit-5.4.121">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Cholicub/plugins/LuckPerms-Bukkit-5.4.121.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

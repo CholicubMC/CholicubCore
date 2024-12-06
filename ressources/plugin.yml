@@ -1,0 +1,28 @@
+name: CholicubCore
+version: 1.0
+author: Shyybi
+description: Minecraft Core for CholicubUhc
+main: me.shyybi.cholicub.Main
+commands:
+  broadcast:
+    description: Broadcast command
+    permission: bc.use
+    aliases: bc, annonce, shout
+    usage: /broadcast <message>
+  rank:
+    description: Group Manager UI
+    permission: rank.use
+    usage: /rank <player>
+  fly:
+    description: Fly command for admin
+    permission: fly.use
+  staff:
+    description: Staff Mod
+    permission: staff.use
+    aliases: ss
+    usage: /staff <message>
+  staffchat:
+    description: Chat command
+    permission: staff.use
+    aliases: sc
+    usage: /staffchat <message>
